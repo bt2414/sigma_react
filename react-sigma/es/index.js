@@ -18,6 +18,9 @@ export { _RelativeSize as RelativeSize };
 import _DragNodes from './DragNodes';
 export { _DragNodes as DragNodes };
 
+import _SnapShot from './SnapShot';
+export { _SnapShot as SnapShot };
+
 import _NOverlap from './NOverlap';
 export { _NOverlap as NOverlap };
 import _NeoCypher from './NeoCypher';
